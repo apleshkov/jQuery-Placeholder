@@ -1,3 +1,5 @@
+    Don't use the minified version - only non-minified is fixed!
+
 ============
 Placeholder plugin for jQuery
 ============
