@@ -80,6 +80,8 @@
             input.blur(function() {
                 placeholder.show(false);
             });
+            
+            input.data('placeholder', placeholder);
 
             // On page refresh, IE doesn't re-populate user input
             // until the window.onload event is fired.
